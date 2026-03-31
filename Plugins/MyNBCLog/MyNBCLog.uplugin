@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "MyNBCLog",
+    "Description": "NBC 로그 플러그인",
+    "Category": "Other",
+    "CreatedBy": "MyName",
+    "CanContainContent": true,
+    "Modules": [
+        {
+            "Name": "MySparta",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
